@@ -7,7 +7,7 @@
 ## 📖 Reference Book
 
 <p align="center">
-  <img src="실무자를 위한 완성 냉동공학/images/실무자를 위한 완성 냉동공학.jpeg" width="1000"/>
+  <img src="실무자를 위한 완성 냉동공학/images/실무자를 위한 완성 냉동공학.jpg" width="1000"/>
 </p>
 
 ---
