@@ -4,6 +4,14 @@
 
 ---
 
+## 📖 Reference Book
+
+<p align="center">
+  <img src="실무자를 위한 완성 냉동공학/images/실무자를 위한 완성 냉동공학.jpeg" width="300"/>
+</p>
+
+---
+
 ## 📚 Contents
 
 - **Ch.1** Fundamentals of Refrigeration  
